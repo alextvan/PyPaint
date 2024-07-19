@@ -1,2 +1,0 @@
-# PyPaint
-Pygame library project
